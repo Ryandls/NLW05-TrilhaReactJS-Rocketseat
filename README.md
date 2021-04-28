@@ -54,7 +54,7 @@ Foi criado um Podcastr utilizando utilizando uma api falsa com json-server, com 
     #Clone repo TrilhaReactJs from github
     git clone https://github.com/Ryandls/NLW05-TrilhaReactJS-Rocketseat.git
 
-    #Entry in TrilhaNodeJS folder
+    #Entry in TrilhaRodeJS folder
     cd NLW05-TrilhaReactJS-Rocketseat
 
 
